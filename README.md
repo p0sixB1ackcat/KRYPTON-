@@ -1,2 +1,2 @@
-# KRYPTON-
+# KRYPTON-DEC
 脱壳
